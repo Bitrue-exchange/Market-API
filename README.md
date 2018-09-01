@@ -6,9 +6,8 @@
 - Datetime default is Unix timestamp, the unit is second。
 
 ## API LIST
-
 |API|URL|Note|
-|----|---------|------|--------|
+|----|---------|--------|
 |All market real-time query|https://www.bitrue.com/kline-api/public.json?command=returnTicker |none|
 |BTC Market query|https://www.bitrue.com/kline-api/publicBTC.json?command=returnTicker|BTC Base Market query|
 |ETH Market query|https://www.bitrue.com/kline-api/publicETH.json?command=returnTicker|ETH Market query|
