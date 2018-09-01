@@ -13,7 +13,7 @@
 |BTC Market query|https://www.bitrue.com/kline-api/publicBTC.json?command=returnTicker|BTC Base Market query|
 |ETH Market query|https://www.bitrue.com/kline-api/publicETH.json?command=returnTicker|ETH Market query|
 |USDT Market query|https://www.bitrue.com/kline-api/publicUSDT.json?command=returnTicker |USDT Market query|
-|XRP Market query |https://www.bitrue.com/kline-api/publicXRP.json?command=returnTicker|XRP Market query|
+|XRP Market query|https://www.bitrue.com/kline-api/publicXRP.json?command=returnTicker|XRP Market query|
 
  
 ## Response
